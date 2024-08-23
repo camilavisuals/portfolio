@@ -21,7 +21,7 @@ git clone https://github.com/camilavisuals/portfolio
 2. Navigate into the project directory:
 
 ```
-cd portfolioWebsite
+cd portfolio
 ```
 
 3. Install dependencies using npm:

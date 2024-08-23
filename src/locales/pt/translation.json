@@ -1,0 +1,64 @@
+{
+    "navbar": {
+        "home": "Início",
+        "aboutMe": "Sobre Mim",
+        "projects": "Projetos",
+        "contact": "Contato",
+        "demoReel": "Meu Demo Reel"
+    },
+    "aboutMe": {
+        "title": "Sobre Mim",
+        "intro": "Meu nome é Camila Fernandes. Sou uma designer gráfica experiente com {{years}} anos de experiência, especializada em motion graphics e edição de vídeo. Trabalhei com sucesso como freelancer, colaborando com clientes na Europa, Estados Unidos e Brasil. Minha experiência diversificada como designer gráfica inclui criar arte, animações e títulos para anúncios de televisão e campanhas de mídia social. Como editora de vídeo, contribuí para vídeos corporativos proeminentes e canais do YouTube.",
+        "personalNote": "No lado pessoal, sou uma geek que adora a indústria do entretenimento, desde livros e mangás até filmes e séries de TV. Também gosto de alguns jogos, embora não me considere uma jogadora hardcore. Amo tudo que envolve criatividade, fantasia e arte."
+    },
+    "projects": {
+        "title": "Projetos",
+        "description": "Abaixo você encontrará alguns dos trabalhos que realizei até agora. Sinta-se à vontade para ver e não hesite em me contatar se precisar de algo mais.",
+        "tabs": {
+            "2DAnimation": "Animação 2D",
+            "handDrawnAnimation": "Animação Desenhada à Mão",
+            "institutionalVideo": "Vídeo Institucional",
+            "intro": "Intro",
+            "logoAnimation": "Animação de Logo",
+            "motionGraphics": "Motion Graphics",
+            "promo": "Promo",
+            "socialMediaShort": "Curta para Redes Sociais",
+            "titles": "Títulos",
+            "videoPresentation": "Apresentação em Vídeo",
+            "whiteboardAnimation": "Animação Whiteboard",
+            "youTube": "YouTube"
+        }
+    },
+    "carousel": {
+        "title": "Algumas das empresas com as quais trabalhei"
+    },
+    "contact": {
+        "title": "Contato",
+        "description": "Você pode entrar em contato comigo por WhatsApp, Email e LinkedIn abaixo. Ficarei feliz em ajudar com seu projeto.",
+        "whatsappButton": "WhatsApp",
+        "emailButton": "Email",
+        "linkedinButton": "LinkedIn",
+        "whatsappNumber": "Número do WhatsApp",
+        "nameLabel": "Nome",
+        "namePlaceholder": "Digite seu nome",
+        "emailLabel": "Email",
+        "emailPlaceholder": "Digite seu email",
+        "subjectLabel": "Mensagem",
+        "subjectPlaceholder": "Digite sua mensagem",
+        "submitButton": "Enviar",
+        "emailError": "Por favor, insira um endereço de email válido.",
+        "toastInvalidEmail": "Email inválido. Por favor, verifique e tente novamente.",
+        "toastSuccess": "Email enviado com sucesso!",
+        "toastError": "Erro ao enviar email. Por favor, tente novamente."
+    },
+    "footer": {
+        "home": "Início",
+        "aboutMe": "Sobre Mim",
+        "projects": "Projetos",
+        "contact": "Contato",
+        "rights": "Todos os direitos reservados."
+    },
+    "videoModal": {
+        "closeButton": "Fechar"
+    }
+}

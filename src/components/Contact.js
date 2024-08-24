@@ -124,7 +124,7 @@ export const Contact = () => {
                             isInvalid={!!emailError}
                             required
                         />
-                        <Form.Control.Feedback type="invalid" style={{ marginLeft: 30, color: 'red' }}>
+                        <Form.Control.Feedback type="invalid" className='email-error'>
                             {emailError}
                         </Form.Control.Feedback>
                     </Form.Group>

@@ -689,6 +689,12 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   vertical-align: middle;
 }
 
+.contact form .email-error {
+  color: red;
+  font-size: 14px;
+  margin-left: 310px;
+}
+
 @media (max-width: 1000px) {
 
   .contact h2 {
@@ -718,7 +724,11 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   .button-group-mobile button {
     width: 100%;
     margin-bottom: 10px;
-}
+  }
+
+  .contact form .email-error {
+    margin-left: 70px;
+  }
 }
 
 /************ Footer ************/

@@ -1,5 +1,7 @@
 import './App.css';
 import './i18n';
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 import { NavBar } from './components/NavBar';
 import { Banner } from './components/Banner';
 import { Contact } from './components/Contact';
@@ -12,11 +14,12 @@ import { AboutMe } from './components/AboutMe';
 
 function App() {
 
-  useSectionObserver(['banner', 'aboutMe' , 'projects' , 'contact', 'footer']);
+  useSectionObserver(['banner', 'aboutMe', 'projects', 'contact', 'footer']);
 
   return (
     <div className="App">
       <NavBar />
+      <ToastContainer />
       <Banner id="banner" />
       <AboutMe id="aboutMe" />
       <Projects id="projects" />

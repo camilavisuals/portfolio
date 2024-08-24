@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d391e4bb.css",
-    "main.js": "/portfolio/static/js/main.e6fcc8eb.js",
+    "main.css": "/portfolio/static/css/main.b531e1eb.css",
+    "main.js": "/portfolio/static/js/main.6f2887a0.js",
     "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
     "static/media/Capa Reel 2023.gif": "/portfolio/static/media/Capa Reel 2023.2deb2bc7e023659a348a.gif",
     "static/media/innout.png": "/portfolio/static/media/innout.2e045523a44d8dc70ea1.png",
@@ -95,12 +95,12 @@
     "static/media/behance.png": "/portfolio/static/media/behance.f31fc81e0812b9063bba.png",
     "static/media/viralata.png": "/portfolio/static/media/viralata.7cb44e66ddd17bd84690.png",
     "index.html": "/portfolio/index.html",
-    "main.d391e4bb.css.map": "/portfolio/static/css/main.d391e4bb.css.map",
-    "main.e6fcc8eb.js.map": "/portfolio/static/js/main.e6fcc8eb.js.map",
+    "main.b531e1eb.css.map": "/portfolio/static/css/main.b531e1eb.css.map",
+    "main.6f2887a0.js.map": "/portfolio/static/js/main.6f2887a0.js.map",
     "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d391e4bb.css",
-    "static/js/main.e6fcc8eb.js"
+    "static/css/main.b531e1eb.css",
+    "static/js/main.6f2887a0.js"
   ]
 }
